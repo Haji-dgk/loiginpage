@@ -89,5 +89,5 @@ class UserController extends GetxController {
       response = error.toString();
     });
     return response;
-  }
+  }//
 }
