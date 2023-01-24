@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398533500580",
+    "project_id": "loiginpage-9be74",
+    "storage_bucket": "loiginpage-9be74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398533500580:android:80c2fdaaebb53e5b271031",
+        "android_client_info": {
+          "package_name": "com.example.loiginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398533500580-v4br2o2pnumhp2qqh4fv39sae53mhjrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9-aMOq6kBESfwgQL8M08p9e9mHdqhQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398533500580-v4br2o2pnumhp2qqh4fv39sae53mhjrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
